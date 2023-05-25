@@ -1,0 +1,26 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+  
+  @media (max-width: 767px) {
+    /* Estilos para dispositivos pequeños (regular phone) */
+    /* Agrega aquí tus estilos específicos para dispositivos pequeños */
+  }
+  
+  /* Estilos para tablets */
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+    /* Estilos para tablets */
+    /* Agrega aquí tus estilos específicos para tablets */
+  }
+  
+  /* Estilos para desktops */
+  
+  @media (min-width: 1024px) {
+    /* Estilos para desktops */
+    /* Agrega aquí tus estilos específicos para desktops */
+  }
